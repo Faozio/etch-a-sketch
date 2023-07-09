@@ -11,4 +11,7 @@
     border: 1px solid black;
     box-sizing: border-box;
   }
-  
+  .hovered {
+    background-color: red; /* Change this to the desired color */
+  }
+    
