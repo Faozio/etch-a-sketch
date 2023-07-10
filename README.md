@@ -27,7 +27,7 @@ This web application provides an interactive canvas where users can draw and era
 
 To run the application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/faozio/etch-a-sketch.git`
+1. Clone the repository: `git clone https://github.com/Faozio/etch-a-sketch.git`
 2. Navigate to the project directory: `cd etch-a-sketch`
 3. Open the index.html file in your preferred web browser.
 
@@ -47,6 +47,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- [Faozio](https://github.com/yourusername)
+- [Faozio](https://github.com/Faozio)
 
 Feel free to explore, use, and modify the code to suit your needs. If you have any questions, suggestions, or feedback, please don't hesitate to reach out. Enjoy drawing on the Etch-a-Sketch canvas!
